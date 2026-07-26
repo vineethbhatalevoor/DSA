@@ -31,4 +31,12 @@
 | ------- |
 | [0268-missing-number](https://github.com/vineethbhatalevoor/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vineethbhatalevoor/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vineethbhatalevoor/DSA/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vineethbhatalevoor/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
