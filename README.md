@@ -27,6 +27,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/vineethbhatalevoor/DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/vineethbhatalevoor/DSA/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -47,4 +48,8 @@
 | ------- |
 | [0283-move-zeroes](https://github.com/vineethbhatalevoor/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vineethbhatalevoor/DSA/tree/master/0344-reverse-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/vineethbhatalevoor/DSA/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
