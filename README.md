@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vineethbhatalevoor/DSA/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/vineethbhatalevoor/DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/vineethbhatalevoor/DSA/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vineethbhatalevoor/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
@@ -44,5 +45,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/vineethbhatalevoor/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vineethbhatalevoor/DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
