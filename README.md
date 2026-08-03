@@ -24,6 +24,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/vineethbhatalevoor/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vineethbhatalevoor/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vineethbhatalevoor/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vineethbhatalevoor/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/vineethbhatalevoor/DSA/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/vineethbhatalevoor/DSA/tree/master/0344-reverse-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vineethbhatalevoor/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
 | ------- |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/vineethbhatalevoor/DSA/tree/master/0867-transpose-matrix) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vineethbhatalevoor/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
