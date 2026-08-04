@@ -14,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vineethbhatalevoor/DSA/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/vineethbhatalevoor/DSA/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/vineethbhatalevoor/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vineethbhatalevoor/DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -38,12 +39,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/vineethbhatalevoor/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vineethbhatalevoor/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vineethbhatalevoor/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vineethbhatalevoor/DSA/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/vineethbhatalevoor/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vineethbhatalevoor/DSA/tree/master/0344-reverse-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vineethbhatalevoor/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
