@@ -10,6 +10,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/vineethbhatalevoor/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/vineethbhatalevoor/DSA/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/vineethbhatalevoor/DSA/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/vineethbhatalevoor/DSA/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/vineethbhatalevoor/DSA/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/vineethbhatalevoor/DSA/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |
