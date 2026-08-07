@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vineethbhatalevoor/DSA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/vineethbhatalevoor/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vineethbhatalevoor/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vineethbhatalevoor/DSA/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vineethbhatalevoor/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -16,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vineethbhatalevoor/DSA/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/vineethbhatalevoor/DSA/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/vineethbhatalevoor/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vineethbhatalevoor/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vineethbhatalevoor/DSA/tree/master/0268-missing-number) |
 ## Math
@@ -42,6 +44,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/vineethbhatalevoor/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vineethbhatalevoor/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vineethbhatalevoor/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vineethbhatalevoor/DSA/tree/master/0628-maximum-product-of-three-numbers) |
