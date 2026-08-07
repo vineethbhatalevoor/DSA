@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vineethbhatalevoor/DSA/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vineethbhatalevoor/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/vineethbhatalevoor/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vineethbhatalevoor/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vineethbhatalevoor/DSA/tree/master/0283-move-zeroes) |
@@ -33,6 +34,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vineethbhatalevoor/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/vineethbhatalevoor/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/vineethbhatalevoor/DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
@@ -62,6 +64,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vineethbhatalevoor/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/vineethbhatalevoor/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/vineethbhatalevoor/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vineethbhatalevoor/DSA/tree/master/0344-reverse-string) |
