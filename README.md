@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vineethbhatalevoor/DSA/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vineethbhatalevoor/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/vineethbhatalevoor/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vineethbhatalevoor/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vineethbhatalevoor/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vineethbhatalevoor/DSA/tree/master/0283-move-zeroes) |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vineethbhatalevoor/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/vineethbhatalevoor/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vineethbhatalevoor/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vineethbhatalevoor/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vineethbhatalevoor/DSA/tree/master/0242-valid-anagram) |
@@ -47,6 +49,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vineethbhatalevoor/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vineethbhatalevoor/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vineethbhatalevoor/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vineethbhatalevoor/DSA/tree/master/0268-missing-number) |
@@ -72,6 +75,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vineethbhatalevoor/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/vineethbhatalevoor/DSA/tree/master/0191-number-of-1-bits) |
 ## Matrix
 |  |
@@ -86,4 +90,12 @@
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vineethbhatalevoor/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vineethbhatalevoor/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vineethbhatalevoor/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
