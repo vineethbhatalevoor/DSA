@@ -28,6 +28,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/vineethbhatalevoor/DSA/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/vineethbhatalevoor/DSA/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/vineethbhatalevoor/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vineethbhatalevoor/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vineethbhatalevoor/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/vineethbhatalevoor/DSA/tree/master/0728-self-dividing-numbers) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/vineethbhatalevoor/DSA/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/vineethbhatalevoor/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vineethbhatalevoor/DSA/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vineethbhatalevoor/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vineethbhatalevoor/DSA/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vineethbhatalevoor/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
