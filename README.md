@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vineethbhatalevoor/DSA/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/vineethbhatalevoor/DSA/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/vineethbhatalevoor/DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vineethbhatalevoor/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vineethbhatalevoor/DSA/tree/master/0169-majority-element) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vineethbhatalevoor/DSA/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/vineethbhatalevoor/DSA/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/vineethbhatalevoor/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/vineethbhatalevoor/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vineethbhatalevoor/DSA/tree/master/0268-missing-number) |
