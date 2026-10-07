@@ -117,4 +117,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/vineethbhatalevoor/DSA/tree/master/1480-running-sum-of-1d-array) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/vineethbhatalevoor/DSA/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
